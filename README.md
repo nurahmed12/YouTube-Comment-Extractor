@@ -1,2 +1,2 @@
 # YouTube-Comment-Extractor
-Contains python codes that can extract youtube comments from link in a customizable way and allows to export those comments as csv/excel file format
+We can pull YouTube comments with additional informations with applying filters from any public YouTube video or videos. This Jupyter Notebook also has Python code for exporting those extracted data into an organized CSV or Excel format.
